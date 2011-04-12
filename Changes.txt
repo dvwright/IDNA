@@ -1,0 +1,9 @@
+1.2.0 release 
+    bug fixes: creates invalid urls in RSS feeds (from Chris Ramey)
+
+1.1.0 release (alpha)
+    bug fixes: 404 on bulk actions, move to trash, empty trash (edit.php)
+
+1.0.0 release (alpha)
+
+0.0.1 initial release (alpha)
